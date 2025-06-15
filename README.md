@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | Tech Explorer | Music Maker 🎸</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=First+year+CSE+student+@UPES🚀;Exploring+Data+Science+🔍;Loves+Music+and+Code🎶💻;Let’s+build+cool+stuff+together!&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Second+year+CSE+student+@UPES🚀;Exploring+Data+Science+🔍;Loves+Music+and+Code🎶💻;Let’s+build+cool+stuff+together!&center=true&width=500&height=45" />
 </p>
 
 ---
