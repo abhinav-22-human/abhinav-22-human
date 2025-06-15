@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 First-year B.Tech (CSE) student at **UPES Dehradun**
+- 🎓 Second-year B.Tech (CSE) student at **UPES Dehradun**
 - 🌱 Currently diving deep into **Data Science**
 - 💡 I love solving real-world problems with code
 - 🎵 Music is my second language – I play **guitar** and **keyboard**
