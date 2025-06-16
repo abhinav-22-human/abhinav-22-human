@@ -13,7 +13,6 @@
 - 💻 Turning caffeine into code & curiosity into projects
 - 🎶 I compose, jam, and vibe with my **guitar & keyboard**
 - ⚽ Ex-football team captain & always a midfield strategist
-- 🌌 Big anime lover — from **Steins;Gate to Jujutsu Kaisen**
 
 ---
 
