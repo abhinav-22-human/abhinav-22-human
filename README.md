@@ -17,22 +17,18 @@
 
 ---
 
-### 🛠️ Languages & Tech Skills
+### 🛠️ Skills
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</p>
-
-### 📦 Libraries & Frameworks
-<p>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/KivyMD-FF7F50?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🧰 Software & Tools
+#### 🧰 Software & Tools
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
@@ -69,4 +65,5 @@
 <p align="center">
   <img src="https://media.tenor.com/qDNa1lQ2OV8AAAAC/coding-anime.gif" width="300"/>
 </p>
-project!
+
+
